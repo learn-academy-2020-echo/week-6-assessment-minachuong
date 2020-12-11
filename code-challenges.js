@@ -9,7 +9,9 @@ var people = [
   { name: "arthur dent", occupation: "radio employee" }
 ]
 // Expected output example: "Ford Prefect is a hitchhiker." "Zaphod Beeblebrox is a president of the galaxy." "Arthus Dent is a radio employee."
-
+function firstFunction() {
+  
+}
 
 
 
